@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Randy Chng @hashketh
+- 👋 Hi, I’m Randy Chng @Chngyuanlongrandy
 - 👀 I’m interested in learning data science and machine learning
 - 🌱 I’m currently learning a variety of skills including Python
 - 💞️ I’m looking to collaborate on anything under the sun!
