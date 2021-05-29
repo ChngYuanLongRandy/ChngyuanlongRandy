@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hashketh
-- 👀 I’m interested in learning data science
-- 🌱 I’m currently learning Python and of course how to use Git!
+- 👋 Hi, I’m Randy Chng
+- 👀 I’m interested in learning data science and machine learning
+- 🌱 I’m currently learning a variety of skills including Python
 - 💞️ I’m looking to collaborate on anything under the sun!
 - 📫 How to reach me. Via email chngyuanlong@gmail.com
 
