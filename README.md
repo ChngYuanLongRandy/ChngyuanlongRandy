@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Randy Chng @Chngyuanlongrandy
-- 👀 I’m interested in learning data science and machine learning
-- 🌱 I’m currently learning a variety of skills including Python
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Python for Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on anything under the sun!
 - 📫 How to reach me. Via email chngyuanlong@gmail.com
 
